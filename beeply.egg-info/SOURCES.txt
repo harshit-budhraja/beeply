@@ -1,0 +1,8 @@
+README.rst
+setup.py
+beeply/_init_.py
+beeply/notes.py
+beeply.egg-info/PKG-INFO
+beeply.egg-info/SOURCES.txt
+beeply.egg-info/dependency_links.txt
+beeply.egg-info/top_level.txt

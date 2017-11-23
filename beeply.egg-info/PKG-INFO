@@ -1,0 +1,24 @@
+Metadata-Version: 1.0
+Name: beeply
+Version: 1.0.0
+Summary: A python module that helps you produce musical notes using your computer's characteristic beep sounds
+Home-page: https://github.com/harshitbudhraja/beeply
+Author: Harshit Budhraja
+Author-email: harshitbudhraja1301@gmail.com
+License: MIT
+Description: ``# beeply`` A python package that helps you produce musical notes using
+        your computer's characteristic beep sounds. Written in Python.
+        
+        Dependencies
+        ------------
+        
+        ``winsound`` python package is required. This package is present by
+        default, if you use python on windows. However, for linux users, the
+        package will automatically be installed along with ``beeply``.
+        
+        Installation
+        ------------
+        
+        Install from Pypi using ``sudo pip install beeply``.
+Keywords: python winsound beep music notes command-line CLI
+Platform: UNKNOWN
