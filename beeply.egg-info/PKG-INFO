@@ -6,7 +6,10 @@ Home-page: https://github.com/harshitbudhraja/beeply
 Author: Harshit Budhraja
 Author-email: harshitbudhraja1301@gmail.com
 License: MIT
-Description: ``# beeply`` A python package that helps you produce musical notes using
+Description: ``$ beeply`` 
+        ============
+        
+        A python package that helps you produce musical notes using
         your computer's characteristic beep sounds. Written in Python.
         
         Dependencies
