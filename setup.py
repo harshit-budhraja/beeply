@@ -7,7 +7,7 @@ def read(fname):
 
 setup(
     name='beeply',
-    version='1.0.0',
+    version='1.0.1',
     description='A python module that helps you produce musical notes using your computer\'s characteristic beep sounds',
 	long_description=read('README.rst'),
     license='MIT',
