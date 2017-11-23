@@ -1,4 +1,4 @@
-`# beeply`
+# beeply
 A python package that helps you produce musical notes using your computer's characteristic beep sounds.
 Written in Python.
 
